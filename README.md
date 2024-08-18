@@ -11,4 +11,4 @@ cdAkash/cdAkash is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://leetcard.jacoblin.cool/dementr?cache=0)
+![](https://leetcard.jacoblin.cool/dementr?ext=heatmap)
